@@ -1,0 +1,1 @@
+cl /EHsc /TpSerial_port_example_Windows.cc /link /out:test.exe 
